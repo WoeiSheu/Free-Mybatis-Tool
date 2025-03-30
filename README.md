@@ -44,5 +44,10 @@
 * Open the **xml** interface file and click the arrow on the left to jump to the **Dao** file.
 * Open the **database** Tool on the left side of the idea, create a data source connection, right-click to select one or more tables, and select **Mybatis-Generator** to open the **Mybatis Generate Tool** panel for the Generate operation.
 
+### Build
+```bash
+./gradlew build
+```
+
 ***Thanks for the contribution @wuzhizhan***
 <!-- Plugin description end -->

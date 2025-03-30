@@ -2,6 +2,11 @@
 
 # Free MyBatis Tool Changelog
 
+## [2.2.3]
+
+### Fixed
+- Fix PostgreSQL limit and offset sql
+
 ## [2.2.2]
 
 ### Fixed
